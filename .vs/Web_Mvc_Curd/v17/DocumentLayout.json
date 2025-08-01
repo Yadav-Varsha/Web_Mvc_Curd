@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Web_Mvc_Curd\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{638309D1-F4D4-4CE1-921A-84546A3808BB}|Web_Mvc_Curd\\Web_Mvc_Curd.csproj|d:\\web_mvc_curd\\web_mvc_curd\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{638309D1-F4D4-4CE1-921A-84546A3808BB}|Web_Mvc_Curd\\Web_Mvc_Curd.csproj|solutionrelative:web_mvc_curd\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638309D1-F4D4-4CE1-921A-84546A3808BB}|Web_Mvc_Curd\\Web_Mvc_Curd.csproj|d:\\web_mvc_curd\\web_mvc_curd\\models\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638309D1-F4D4-4CE1-921A-84546A3808BB}|Web_Mvc_Curd\\Web_Mvc_Curd.csproj|solutionrelative:web_mvc_curd\\models\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638309D1-F4D4-4CE1-921A-84546A3808BB}|Web_Mvc_Curd\\Web_Mvc_Curd.csproj|d:\\web_mvc_curd\\web_mvc_curd\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638309D1-F4D4-4CE1-921A-84546A3808BB}|Web_Mvc_Curd\\Web_Mvc_Curd.csproj|solutionrelative:web_mvc_curd\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Web_Mvc_Curd\\Web_Mvc_Curd\\appsettings.json",
+              "RelativeDocumentMoniker": "Web_Mvc_Curd\\appsettings.json",
+              "ToolTip": "D:\\Web_Mvc_Curd\\Web_Mvc_Curd\\appsettings.json",
+              "RelativeToolTip": "Web_Mvc_Curd\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-01T09:59:23.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeDbContext.cs",
+              "DocumentMoniker": "D:\\Web_Mvc_Curd\\Web_Mvc_Curd\\Models\\EmployeeDbContext.cs",
+              "RelativeDocumentMoniker": "Web_Mvc_Curd\\Models\\EmployeeDbContext.cs",
+              "ToolTip": "D:\\Web_Mvc_Curd\\Web_Mvc_Curd\\Models\\EmployeeDbContext.cs",
+              "RelativeToolTip": "Web_Mvc_Curd\\Models\\EmployeeDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T09:52:17.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Web_Mvc_Curd\\Web_Mvc_Curd\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Web_Mvc_Curd\\Models\\Employee.cs",
+              "ToolTip": "D:\\Web_Mvc_Curd\\Web_Mvc_Curd\\Models\\Employee.cs",
+              "RelativeToolTip": "Web_Mvc_Curd\\Models\\Employee.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T07:40:14.195Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
